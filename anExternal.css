@@ -1,0 +1,49 @@
+body {
+	color:#03263A;
+	background-color:#4EA701;
+}
+h1 {
+	font-family: Wide Latin;
+	font-size: 50pt;
+	text-align: center;
+}
+
+h2 {
+	font-family: Serif;
+	font-size: 25pt;
+	text-align: center;
+	font-style: bold;
+}
+
+p {
+	font-family: Serif;
+	font-size: 12pt;
+	text-align: center;
+	border-style: dotted;
+	overflow: hidden;
+}
+
+img.logo {
+	float: right;
+	display: block;
+	margin: 0px 0px 5px 5px;
+	width: 250px;
+	height: auto;
+	
+}
+
+img.seahawks {
+	border: 10px solid #A5ACAF;
+	border-radius: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+div.imageContainer {
+	text-align: center;
+}
+
+p.practice {
+	text-align: center;
+}
+
